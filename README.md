@@ -54,6 +54,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/D0r4k1/D0r4k1/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/1e5ig46ch8vdputtsk8dzwp4v">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1e5ig46ch8vdputtsk8dzwp4v&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
